@@ -5,4 +5,4 @@ An easy tree view plugin for jQuery and Bootstrap 3. Forked from [zgs225/easy-tr
 
 ##Demo##
 
-[Example](http://zgs225.github.io/easy-tree)
+[Example](http://www.jqueryscript.net/demo/Nice-Tree-View-Plugin-with-jQuery-Bootstrap-3-Easy-Tree)
