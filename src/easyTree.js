@@ -21,11 +21,11 @@
                 collapseTip: 'collapse',
                 expandTip: 'expand',
                 selectTip: 'select',
-                unselectTip: 'unselet',
+                unselectTip: 'unselect',
                 editTip: 'edit',
                 addTip: 'add',
                 deleteTip: 'delete',
-                cancelButtonLabel: 'cancle'
+                cancelButtonLabel: 'cancel'
             }
         };
 
